@@ -1,4 +1,4 @@
-# Hi there, I'm [Ceyda Gedikli] 👋 
+# Hi there, I'm Ceyda. 👋 
 ### Backend Developer | Crafting Scalable & Structured Solutions
 
 ---
